@@ -6,7 +6,7 @@ A beautifully designed **real-time analog clock** built with **HTML**, **CSS**, 
 
 ## 🌐 Live Preview
 
-🔗 [View Live Demo](https://hassan-shirazi.github.io/Real-Time-Clock/)  
+🔗 [View Live Demo](https://real-time-analogclock.netlify.app/)  
 <!-- Replace # with your live hosted link (e.g., GitHub Pages or Netlify) -->
 
 ---
@@ -30,9 +30,3 @@ A beautifully designed **real-time analog clock** built with **HTML**, **CSS**, 
 
 ---
 
-## 🚀 Getting Started
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/Hassan-Shirazi/Real-Time-Clock.git
-   cd analog-clock
